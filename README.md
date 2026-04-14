@@ -1,8 +1,7 @@
-# EEPS-Project-3
-Project 3 for EEPS 153
+# Regional Food Demand and Nutritional Outcomes in Nigeria
 
 ### **Objective**  
-Our project attempts to study how observed prices and budget constraints influence food demand, comparing price elasticity of food across different years and regions in Nigeria.
+This project attempts to study how observed prices and budget constraints influence food demand, comparing price elasticity of food across different years and regions in Nigeria.
 
 ---
 ### **Group Members**
